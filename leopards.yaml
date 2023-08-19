@@ -1,6 +1,10 @@
 team: leopards
 
+<<<<<<< HEAD
 manager: Nicolas
+=======
+manager: Melissa
+>>>>>>> 925e745 (Edit Leopards)
 
 members:
 - Linda
