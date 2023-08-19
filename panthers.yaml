@@ -1,6 +1,10 @@
 team: Panthers
 
+<<<<<<< HEAD
 manager: Shirley
+=======
+manager: Paymond
+>>>>>>> 814dc82 (Edit Panthers)
 
 members:
 - Violet
